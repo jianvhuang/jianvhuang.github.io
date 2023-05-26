@@ -1,0 +1,10 @@
+# use Visual Studio Code on MacOS or Windows
+
+# clone the romote repository to local
+git clone https://github.com/jianvhuang/jianvhuang.github.io.git
+
+# prepare to push local repository to remote
+git add .
+git commit -m "description of changes"
+git push https://github.com/jianvhuang/jianvhuang.github.io.git master
+
