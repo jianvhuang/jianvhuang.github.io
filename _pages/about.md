@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Public health researcher and molecular epidemiologist
 
 profile:
   align: right
@@ -11,13 +11,11 @@ profile:
 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Jian Huang. I am a public health researcher and molecular epidemiologist. I obtained my Master's degree in Public Health (MPH) and PhD in epidemiology at the University of Hong Kong, with a one-year research visit at Columbia University focusing on molecular epidemiology. After my PhD, I joined Imperial College London to work on research projects aiming to enhance our understanding of lifestyle and molecular risk factors for Alzheimer's disease. Currently, I am a Research Fellow at Singapore Institute for Clinical Sciences (SICS), Agency for Science, Technology and Research (A*STAR).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interest lies primarily in understanding the causal relationship of environmental and lifestyle factors with human health, and the molecular mechanisms underlying this relationship. Particularly, I am interested in cardiometabolic health, child neurodevelopment, later-life neurodegeneration, and multi-omics (e.g., genomics, epigenomics, metabolomics, proteomics). Here, I will share the updates on my research work and ongoing projects (Research highlight).
