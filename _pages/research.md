@@ -4,7 +4,7 @@ title: Research
 permalink: /Research/
 description: My research interest lies primarily in understanding the causal relationship of environmental and lifestyle factors with human health, and the molecular mechanisms underlying this relationship. Particularly, I am interested in cardiometabolic health, child neurodevelopment, later-life neurodegeneration, and multi-omics (e.g., genomics, epigenomics, metabolomics, proteomics). 
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: 
 horizontal: false
 ---
