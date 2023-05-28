@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Maternal preconception functionally suboptimal status of thiamine and child behavioural problems
-description: a project with a background image
+title: 
+description: Maternal preconception functionally suboptimal status of thiamine and child behavioural problems
 img: assets/img/publication_preview/preconception_sample.png
 importance: 1
 ---
