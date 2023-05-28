@@ -1,15 +1,15 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Research
+permalink: /Research/
+description: My research interest lies primarily in understanding the causal relationship of environmental and lifestyle factors with human health, and the molecular mechanisms underlying this relationship. Particularly, I am interested in cardiometabolic health, child neurodevelopment, later-life neurodegeneration, and multi-omics (e.g., genomics, epigenomics, metabolomics, proteomics). 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: 
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/Research.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
