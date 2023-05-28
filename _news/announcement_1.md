@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-10-22 15:59:00-0400
+date: 2023-09-15 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement testing.
+Jian is awarded the Singapore National Medical Research Council (NMRC) Open Fund - Young Individual Research Grant (OF-YIRG)
