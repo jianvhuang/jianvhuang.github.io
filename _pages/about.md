@@ -20,6 +20,4 @@ Hi, I am Jian Huang. I am a public health researcher and molecular epidemiologis
 
 My research interest lies primarily in understanding the causal relationship of environmental and lifestyle factors with human health, and the molecular mechanisms underlying this relationship. Particularly, I am interested in cardiometabolic health, child neurodevelopment, later-life neurodegeneration, and multi-omics (e.g., genomics, epigenomics, metabolomics, proteomics). Here, I will share the updates on my research work and ongoing projects.
 
-<a href="https://drive.google.com/file/d/1I4jMDdvbjymttMId0xTQHbsJ6Ugry7nK/view?usp=share_link" target="_blank">CV</a>
-
-<a href="https://drive.google.com/file/d/1I4jMDdvbjymttMId0xTQHbsJ6Ugry7nK/view?usp=share_link" class="btn btn-sm z-depth-0" role="button">HTML</a>
+<a href="https://drive.google.com/file/d/1I4jMDdvbjymttMId0xTQHbsJ6Ugry7nK/view?usp=share_link" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid #000;">CV</a>
