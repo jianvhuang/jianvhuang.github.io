@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: Preconception biomarkers
+title: Preconception biomarkers
+description: Maternal preconception functionally suboptimal status of thiamine and child behavioural problems
 img: assets/img/publication_preview/preconception_sample.png
 importance: 1
 ---
