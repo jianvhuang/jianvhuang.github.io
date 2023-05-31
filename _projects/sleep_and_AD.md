@@ -3,7 +3,7 @@ layout: page
 title: Does sleeping less cause Alzheimer's disease?
 description: Using a bi-directional Mendelian randomisation design, we found evidence supporting a potential causal influence of genetically high risk for Alzheimer's disease on sleep disturbances, but not the other way round.
 img: assets/img/publication_preview/Sleep_MDD_AD.jpg
-importance: 1
+importance: 2
 ---
 
 Aging populations across the world have led to an increasing prevalence of both Alzheimer disease (AD) and depression. The comorbidity of depressive disorders and late-life neurodegenerative diseases, including AD, has been widely reported. However, it is not known if any causal relationship exists between them or, alternatively, whether their co-occurrence is due to confounding or common risk factors such as aging and other lifestyle behaviours. Sleep habits are important aspects of lifestyle, and abnormal sleep patterns are among the clinical signs and symptoms of both depression and AD. However, causal relationships between sleep habits and MDD or AD have not been explored directly at a population level.

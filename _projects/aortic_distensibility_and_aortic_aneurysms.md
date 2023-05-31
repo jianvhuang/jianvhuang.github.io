@@ -3,7 +3,7 @@ layout: page
 title: Aortic distensibility and aortic aneurysms
 description: We identified common causal mechanisms relating cerebral small vessel disease and aortic structure and function that could explain the clinically observed relationships between late-life cognitive decline and aortic disease.
 img: assets/img/publication_preview/aortic_aneurysms.jpg
-importance: 1
+importance: 3
 ---
 
 Diseases affecting the aorta are common and their complications are associated with high mortality even in young people. Quantitative aortic traits (aortic dimensions and functional measures) can predict progression of these aortopathies.
