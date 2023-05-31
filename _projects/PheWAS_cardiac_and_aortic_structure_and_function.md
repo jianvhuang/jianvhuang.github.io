@@ -3,7 +3,7 @@ layout: page
 title: Phenome-wide association study of cardiac and aortic structure and function
 description: Population-based cardiac and aortic imaging phenotypes can be used to better define cardiovascular disease risks as well as heart-brain health interactions, highlighting new opportunities for studying disease mechanisms and developing image-based biomarkers.
 img: assets/img/publication_preview/cardiac_and_aortic_imaging.png
-importance: 1
+importance: 3
 ---
 
 Differences in cardiac and aortic structure and function are associated with cardiovascular diseases and a wide range of other types of disease. Here we analyzed cardiovascular magnetic resonance images (MRI) from a population-based study, the UK Biobank, using <a href="https://github.com/baiwenjia/ukbb_cardiac" target="_blank">an automated machine-learning-based analysis pipeline</a>. Quantitative phenotypes derived from cardiovascular MRI enable us to assess cardiac and aortic structure and function in a non-invasive way, and provide important biomarkers for the determination of pathological states in cardiovascular diseases.
