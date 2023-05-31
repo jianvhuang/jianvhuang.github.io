@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aortic distensibility and aortic aneurysms
-description: We identified common causal mechanisms relating cerebral small vessel disease and aortic structure and function that could explain the clinically observed relationships between late-life cognitive decline and aortic disease.
+title: Phenome-wide association study of cardiac and aortic structure and function
+description: Population-based cardiac and aortic imaging phenotypes can be used to better define cardiovascular disease risks as well as heart-brain health interactions, highlighting new opportunities for studying disease mechanisms and developing image-based biomarkers.
 img: assets/img/publication_preview/cardiac_and_aortic_imaging.png
 importance: 1
 ---
