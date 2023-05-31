@@ -3,7 +3,7 @@ layout: page
 title: Phenome-wide association study of cardiac and aortic structure and function
 description: Population-based cardiac and aortic imaging phenotypes can be used to better define cardiovascular disease risks as well as heart-brain health interactions, highlighting new opportunities for studying disease mechanisms and developing image-based biomarkers.
 img: assets/img/publication_preview/alzheimer.jpg
-importance: 2
+importance: 1
 ---
 
 **What is the current knowledge on this topic?**

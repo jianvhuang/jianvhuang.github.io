@@ -3,7 +3,7 @@ layout: page
 title: Aortic distensibility and aortic aneurysms
 description: We identified common causal mechanisms relating cerebral small vessel disease and aortic structure and function that could explain the clinically observed relationships between late-life cognitive decline and aortic disease.
 img: assets/img/publication_preview/cardiac_and_aortic_imaging.png
-importance: 3
+importance: 1
 ---
 
 Differences in cardiac and aortic structure and function are associated with cardiovascular diseases and a wide range of other types of disease. Here we analyzed cardiovascular magnetic resonance images (MRI) from a population-based study, the UK Biobank, using <a href="https://github.com/baiwenjia/ukbb_cardiac" target="_blank">an automated machine-learning-based analysis pipeline</a>. Quantitative phenotypes derived from cardiovascular MRI enable us to assess cardiac and aortic structure and function in a non-invasive way, and provide important biomarkers for the determination of pathological states in cardiovascular diseases.
