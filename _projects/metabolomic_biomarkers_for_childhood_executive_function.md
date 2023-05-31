@@ -2,7 +2,7 @@
 layout: page
 title: Metabolomic biomarkers for childhood executive function
 description: The relationship between higher circulating leucine level with poorer cognitive regulation may be determined by genetic factors and may not be easily amenable to dietary interventions.
-img: assets/img/publication_preview/alzheimer.jpg
+img: assets/img/publication_preview/child_playing.jpg
 importance: 1
 ---
 
