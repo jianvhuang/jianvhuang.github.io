@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Inflammation and Alzheimer's disease
-description: While inflammatory biomarkers showed evidence for causal associations with inflammatory diseases, evidence was weak that a common inflammatory biomarker affected both inflammatory disease and Alzheimer's disease.
+title: Phenome-wide association study of cardiac and aortic structure and function
+description: Population-based cardiac and aortic imaging phenotypes can be used to better define cardiovascular disease risks as well as heart-brain health interactions, highlighting new opportunities for studying disease mechanisms and developing image-based biomarkers.
 img: assets/img/publication_preview/alzheimer.jpg
 importance: 1
 ---
