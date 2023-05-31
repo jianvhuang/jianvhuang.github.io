@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inflammation and Alzheimer's disease
-description: Inflammatory diseases, inflammatory biomarkers, and Alzheimer disease
+description: While inflammatory biomarkers showed evidence for causal associations with inflammatory diseases, evidence was weak that a common inflammatory biomarker affected both inflammatory disease and Alzheimer's disease.
 img: assets/img/publication_preview/alzheimer.jpg
 importance: 1
 ---

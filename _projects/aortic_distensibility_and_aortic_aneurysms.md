@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aortic distensibility and aortic aneurysms
-description: Causal role for aortic distensibility in development of aortic aneurysms
+description: We identified common causal mechanisms relating cerebral small vessel disease and aortic structure and function that could explain the clinically observed relationships between late-life cognitive decline and aortic disease.
 img: assets/img/publication_preview/aortic_aneurysms.jpg
 importance: 1
 ---
