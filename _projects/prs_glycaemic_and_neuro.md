@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Aortic distensibility and aortic aneurysms
-description: We identified common causal mechanisms relating cerebral small vessel disease and aortic structure and function that could explain the clinically observed relationships between late-life cognitive decline and aortic disease.
-img: assets/img/publication_preview/aortic_aneurysms.jpg
-importance: 3
+title: Genetic risk for insulin resistance and cognitive scores
+description: Our findings suggest that a higher genetic risk for insulin resistance in children was associated with lower cognitive scores in both Asian and European cohorts.
+img: assets/img/publication_preview/family_genetics.png
+importance: 1
 ---
 
-Diseases affecting the aorta are common and their complications are associated with high mortality even in young people. Quantitative aortic traits (aortic dimensions and functional measures) can predict progression of these aortopathies.
+Studies have shown that dysfunctional insulin signalling can worsen pathology related to Alzheimer’s disease, suggesting insulin resistance is a link between metabolic syndrome and neurodegenerative disorders. The relationships of early-life insulin resistance or fasting glucose concentration with cognitive function are less studied. 
 
-Here, we used convolutional neural networks for automated aortic segmentation25 to measure ascending and descending aortic areas and distensibilities on cardiac magnetic resonance (MRI) images from UK Biobank. We then performed a genome-wide association study (GWAS) of six cardiac magnetic resonance (CMR)-derived aortic traits and carried out functional analyses and a series of Mendelian randomisation (MR) studies to investigate possible causal associations of the aortic measures with aortic aneurysms.
+We constructed PRS for child glycaemic traits using child, maternal, and paternal genotypes in an Asian parent-offspring cohort (GUSTO) and found that child PRS and parental PRS were differently associated with cognitive function. Most consistently, we found that a higher child polygenic risk for HOMA-IR was associated with lower scores for perceptual reasoning (WASI-II) and academic performance (WIAT-III mean score). A higher paternal polygenic risk for child HOMA-IR was also found to be associated with a lower score for perceptual reasoning in the GUSTO cohort.
 
-We showed that aortic distensibility has a significant heritable component, with 11% of the variance in ascending aortic distensibility and 10% of the variance in descending aortic distensibility explained by the common genetic variants included in our study. The clinical significance of our findings is suggested by the potential causal associations between ascending aortic distensibility and aortic aneurysms defined by MR phenome-wide association studies (MR-PheWAS). We also presented new evidence for common causal mechanisms relating cerebral small vessel disease and aortic structure and function that could explain the clinically observed relationships between late-life cognitive decline and aortic disease.
+Replication analysis in a European birth cohort (ALSPAC) showed that higher maternal PRS for HOMA-IR was associated with a lower performance IQ score in girls. This may suggest different roles of parental genomes and that the relationship between polygenic risk for glycaemic regulation and neurodevelopment may be specific to neurodevelopmental domains and populations. Such differences in different populations suggest further research is warranted on whether these associations are robust to different environments.
 
-A better understanding of the underlying mechanisms based on these genetic data could lead to the identification of new therapeutic targets for the reduction of both cardiovascular disease and dementia risks.
+In summary, for the first time, our findings suggest that a higher genetic risk for insulin resistance in children was associated with lower cognitive scores in both Asian and European cohorts. Some differential findings between cohorts may be attributed to genetic and environmental factors. Our findings suggest that monitoring and early intervention of insulin resistance should be considered for child development to enhance human capital.
 
-For more details, see <a href="https://www.nature.com/articles/s41467-022-32219-x" target="_blank">Francis CM, Futschik ME, Huang J, _et al_. Genome-wide associations of aortic distensibility suggest causality for aortic aneurysms and brain white matter hyperintensities. _Nature Communications_. 2022.</a>
+For more details, see <a href="https://www.nature.com/articles/s41398-023-02694-x" target="_blank">Huang J, _et al_. Parental and child genetic burden of glycaemic dysregulation and early-life cognitive development: an Asian and European prospective cohort study. _Translational Psychiatry_. 2024.</a>
+
