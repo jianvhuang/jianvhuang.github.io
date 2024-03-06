@@ -22,4 +22,4 @@ My research interest lies primarily in unravelling the causal relationship of en
 
 Built upon these multifaceted experiences, my current research focuses on the mechanisms connecting cardiometabolic and neurocognitive health across life and generation. I investigate this through two distinct lenses: firstly, the biological mechanisms (e.g., genetic risk and multi-omics), and secondly, the profound influence of social and behavioural determinants. I will share the updates on my research work and ongoing projects here.
 
-<a href="https://drive.google.com/file/d/1I4jMDdvbjymttMId0xTQHbsJ6Ugry7nK/view?usp=share_link" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid #000;">CV</a>
+<a href="https://drive.google.com/file/d/1Z1AeH_dHDT3WxikorHzD91ubCWYm_RVm/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid #000;">CV</a>
