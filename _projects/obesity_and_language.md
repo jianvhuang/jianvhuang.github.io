@@ -10,7 +10,9 @@ Previous research has highlighted links between cardiometabolic health and neuro
 
 We leveraged trans-ancestry polygenic predictions of BMI to interrogate the causal effects of early-life BMI on child language development and its effects on molecular and neuroimaging measures. Our study shows that genetic variants linked to obesity are also associated with early language development in children. This relationship is likely due to a shared genetic basis between obesity and language-related skills rather than a direct causal effect of higher obesity on language abilities. Additionally, our data suggest that EPH-Ephrin signalling may play a role in language development. Overall, these insights underscore the potential of integrating early-life proteomic analyses with deep genotyping and phenotyping to enhance our understanding of child health and development at a molecular level. More comprehensive early-life proteomic profiling to further elucidate the molecular links between cardiometabolic health and neurodevelopment. 
 
-![Cover](assets/img/publication_preview/obesity_language_ebiomedicine_cover.png)
+[Cover](assets/img/publication_preview/obesity_language_ebiomedicine_cover.png)
 
-For more details, see <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00023-4/fulltext" target="_blank">Huang J, _et al_. Linking obesity-associated genotype to child language development: the role of early-life neurology-related proteomics and brain myelination. _eBioMedicine_. 2025.</a>
+This study is featured as the cover article in the March issue 2025 of _eBioMedicine_ and is highlighted on [Psychreg.org](https://www.psychreg.org/obesity-language-skills-share-genetic-link-study-finds/). 
+
+For more details, see <a href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00023-4/fulltext" target="_blank">Huang J, _et al_. Linking obesity-associated genotype to child language development: the role of early-life neurology-related proteomics and brain myelination. _eBioMedicine_. 2025.</a> 
 
