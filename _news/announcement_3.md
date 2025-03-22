@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent work about childhood obesity and language development is featured as the [cover article](https://github.com/jianvhuang/jianvhuang.github.io/blob/master/assets/img/publication_preview/obesity_language_ebiomedicine_cover.png) in the March issue 2025 of [eBioMedicine](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00023-4/fulltext) and hightlighted on Psychreg.org [[Read it here](https://www.psychreg.org/obesity-language-skills-share-genetic-link-study-finds/)]
+Our recent work about childhood obesity and language development is featured as the [cover article](https://www.thelancet.com/issue/S2352-3964(25)X0002-5#fullCover) in the March issue 2025 of [eBioMedicine](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00023-4/fulltext) and hightlighted on Psychreg.org [[Read it here](https://www.psychreg.org/obesity-language-skills-share-genetic-link-study-finds/)]
