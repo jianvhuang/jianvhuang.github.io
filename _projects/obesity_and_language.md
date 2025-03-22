@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Linking obesity-associated genotype to child language development
+title: Shared genetic basis between childhood obesity and language development
 description: We found a shared genetic basis between obesity and language development rather than a causal effect of obesity on language development. Early-life proteomics provides biological insights.
 img: assets/img/publication_preview/obesity_language_ebiomedicine_cover.png
 importance: 1
